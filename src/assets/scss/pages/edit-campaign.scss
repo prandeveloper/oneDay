@@ -1,0 +1,94 @@
+.mainDiv{
+    // text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    // color:red;
+    // position: relative;
+    text-align: center !important;
+    font-weight: bold;
+}
+.question {
+    position: relative;
+    display: inline-block!important;
+    width: 15px;
+     top: -20px;
+    height: 15px;
+    padding: 3px 5px;
+    margin: 0 0 0 5px;
+    font-size: .5rem;
+    font-weight: 700;
+    line-height: 1em;
+    color: #9196b6;
+    text-align: center;
+    cursor: pointer;
+    background: #f0f1f7;
+    border-radius: 20px
+}
+.para{
+    // margin:0 auto 80px;
+    text-align: center;
+    margin: 20px auto !important;
+    //     width: 450px;
+    // max-width: 100%;
+    // margin: 0 auto 80px;
+    //  text-align: center
+}
+
+.primarygoals ul{
+// display: flex;
+list-style: none;
+padding: 5px;
+// width: 50px;
+}
+[dir] .primarygoals ul li {
+    margin: 10px 0;
+    padding: 7px 9px;
+    border-radius: 40px;
+    color: #fff;
+    box-shadow: none;
+    border-color: #4270fc;
+    background-color: #4270fc;
+    width: fit-content;
+    text-align: center;
+}
+.mainDiv{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+.firstCard{
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    transition: transform .15s ease-out;
+}
+.cardTitle{
+    margin: 15px auto 5px;
+    font-size: 1.1em;
+    font-weight: 700;
+    color: #4270fc;
+    text-transform: uppercase
+}
+
+
+
+
+// Auto Page
+.autoPara{font-size: 18px;
+color: #9196b6;
+line-height: 2;}
+
+.headAuto{
+padding: 12px 15px;
+font-weight: 600;
+letter-spacing: -.02em;
+font-size: 1.3em;
+border-bottom: 1px solid #eceff0;
+background-color: #eff8ff;
+color: #4270fc;
+border-radius: 5px 5px 0 0;}

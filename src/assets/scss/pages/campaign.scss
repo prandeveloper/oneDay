@@ -1,0 +1,119 @@
+// new css
+div.heading{
+  background: #4270fc;
+    background: linear-gradient(90deg,#4270fc,#1e43ff);
+    padding: 3.125rem !important;
+}
+.heading1 ,.heading h1{
+   font-size: 40px;
+    font-weight: 600;
+    color: #fff !important;
+    line-height: 1em;
+    margin: 0 0 15px;
+    letter-spacing: -.02em;
+    
+}
+.heading1{
+  margin-bottom: 5px;
+    font-size: 2em;
+    font-weight: 500;
+    color: #242328;
+}
+.heading p{
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 1.2em;
+  color: hsla(0,0%,100%,.75) !important;
+  margin: 0;
+  max-width: 610px;
+  letter-spacing: -.01em
+}
+
+.customselect .select__control .css-yk16xz-control{
+  border-radius: 0 !important;
+}
+.rt-t.btn-group button {
+    background: none !important;
+    color: black !important;
+  }
+  .selectData{
+    width:150px;
+  }
+.cardChange.card{
+ border-radius: 1.25rem !important;
+  }
+  .cardChange.card:hover{
+    transition: all .15s ease-in-out !important;
+    transform: translateY(-4px) !important;
+    // border-color: aqua !important;
+    // box-shadow: 10px 10px 40px 0 rgb(36 35 40 / 20%), 0 0 0 1px #4270fc !important;
+ }
+ .addCode p{
+  padding: 10px 0;
+  line-height: 2 ;
+  color: #b2b5cb;
+ }
+
+ .heading2{
+   color: #242328;
+   font-weight: 500;
+   position: relative;
+  }
+  // .card1{
+  //   position: absolute;
+  //   left: 0;
+  //   top: 240px;
+  //   right: 0;
+  //   z-index: 999;
+  // }
+  .card2{
+  padding: 0 23px ;
+  }
+  .msgDiv{
+    padding: 20px;
+    margin: 10px 0 30px;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #9196b6;
+    text-align: center;
+    background-color: rgba(145,150,182,.1);
+    border-radius: 5px;
+
+  }
+
+  // rs css
+
+  [dir=ltr] div.heading {
+    background: linear-gradient(90deg, #4270fc, #1e43ff);
+    padding: 70px 20px !important;
+    display: inline-block;
+    width: 100%;
+}
+.bottom-box {
+  margin-top: -45px;
+  padding: 0 10px;
+}
+
+.cardChange.hi-1.card {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+}
+
+
+// notification card
+.notifiCard{
+border-bottom: 1px solid #eceff0 !important;
+    background-color: #eff8ff !important;
+    padding: 1.2rem !important;
+}
+
+
+// TodoList
+[dir] .btn-secondary {
+  border-color: #82868b!important;
+  background-color: #82868b!important;
+}
+.btn-sm{
+ font-size: 0.9rem !important;
+ border-radius: 0.358rem !important;
+
+}
