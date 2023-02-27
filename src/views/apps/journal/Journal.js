@@ -104,14 +104,14 @@ class Journal extends React.Component {
               {/* </div> */}
 
               <div className="container">
-                <CustomInput
+                {/* <CustomInput
                   type="switch"
                   className="mt-2 ml-1 custonswitchforhidediv "
                   id="exampleCustomSwitch"
                   name="customSwitch"
                   inline
                   onClick={() => this.handledivClose("on off")}
-                ></CustomInput>
+                ></CustomInput> */}
                 <h1 class="title">Journal</h1>
                 <JournalList />
               </div>

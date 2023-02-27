@@ -33,9 +33,9 @@ class JournalList extends React.Component {
         <section className="sectionjournalheading">
           <div className="mainjouralborder">
             <div className="lst-con datetimejournal">
-              <div className="date">
-                <Card className="dateincard time">
-                  <h5 className="dayofcard">Tue </h5>
+              <div className="date ">
+                <Card className="dateincard time borderStyle">
+                  <h6 className="dayofcard">Tue </h6>
                   <h2 className="dateincard">19</h2>
                 </Card>
               </div>
@@ -66,7 +66,7 @@ class JournalList extends React.Component {
             <div className="lst-con datetimejournal">
               <div className="date">
                 <Card className="dateincard time">
-                  <h5 className="dayofcard">Tue </h5>
+                  <h6 className="dayofcard">Tue </h6>
                   <h2 className="dateincard">19</h2>
                 </Card>
               </div>
@@ -97,7 +97,7 @@ class JournalList extends React.Component {
             <div className="lst-con datetimejournal">
               <div className="date">
                 <Card className="dateincard time">
-                  <h5 className="dayofcard">Tue </h5>
+                  <h6 className="dayofcard">Tue </h6>
                   <h2 className="dateincard">18</h2>
                 </Card>
               </div>
@@ -128,7 +128,7 @@ class JournalList extends React.Component {
             <div className="lst-con datetimejournal">
               <div className="date">
                 <Card className="dateincard time">
-                  <h5 className="dayofcard">Tue </h5>
+                  <h6 className="dayofcard">Tue </h6>
                   <h2 className="dateincard">18</h2>
                 </Card>
               </div>
@@ -159,7 +159,7 @@ class JournalList extends React.Component {
             <div className="lst-con datetimejournal">
               <div className="date">
                 <Card className="dateincard time">
-                  <h5 className="dayofcard">Tue </h5>
+                  <h6 className="dayofcard">Tue </h6>
                   <h2 className="dateincard">17</h2>
                 </Card>
               </div>
@@ -190,7 +190,7 @@ class JournalList extends React.Component {
             <div className="lst-con datetimejournal">
               <div className="date">
                 <Card className="dateincard time">
-                  <h5 className="dayofcard">Tue </h5>
+                  <h6 className="dayofcard">Tue </h6>
                   <h2 className="dateincard">16</h2>
                 </Card>
               </div>
